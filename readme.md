@@ -12,4 +12,4 @@ _You are supposed to use Styled Components for all of these exercises._
 
 ## Bonus:
 
-1. Create a simple React app with 1-2 components and connect any third party library or framework of your choice. (Eg: Bootstrap, TailwindCSS, etc.)
+1. Create a simple React app with 1-2 components and connect any third party library or framework of your choice. (Eg: Bootstrap, TailwindCSS, MaterialUI etc.)
